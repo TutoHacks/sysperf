@@ -1,6 +1,6 @@
 ## getsysperf.com
 A simple benchmark script to test your Disk, Network and CPU performance on Debian/ Ubuntu based systems.     
-&nbsp;
+
 ### Usage
 You just have to run the command below.
 ```
